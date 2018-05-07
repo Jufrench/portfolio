@@ -6,6 +6,27 @@
   box-shadow: 5px 5px 5px #ffffff;
 } */
 
+#button-box {
+  margin-top: 30px;
+}
+
+.button {
+  color: darkgoldenrod;
+  border-style: solid;
+  border-color: darkgoldenrod;
+  border-width: 2px;
+}
+
+.button:hover {
+  background-color: #EBCA77;
+}
+
+#email-address {
+  margin-top: 10px;
+  font-size: 15px;
+  opacity: 0.5;
+}
+
 #design-subtitle {
   margin-top: 36px;
 }
